@@ -21,20 +21,13 @@ This project is part of the **Mini Hackathon 1.0 - Data Science Track**. The obj
 
 ## How to Run
 
-1. **Data Preprocessing**: Access the preprocessing notebook on Kaggle (https://www.kaggle.com/code/kavyachippada/preprocessing/edit/run/194314284)](#).
+1. **Data Preprocessing**: Access the preprocessing notebook on Kaggle [link](https://www.kaggle.com/code/kavyachippada/preprocessing/edit/run/194314284)].
 2. **SQL Queries**: Use the provided SQL queries to explore the dataset in BigQuery.
 3. **Power BI Visualizations**: Open the Power BI file to view the visualizations and interact with the data.
 
 ## Submission
 
-- **GitHub Repository**: [Link to repository](#)
 - **Loom Video**: [Link to video](#)
-
-## Future Work
-
-- Explore additional dimensions of the dataset, such as budget versus earnings.
-- Further investigate trends in specific genres or periods.
-- Develop more interactive visualizations with Power BI.
 
 ## Contact
 
