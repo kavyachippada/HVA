@@ -31,4 +31,4 @@ This project is part of the **Mini Hackathon 1.0 - Data Science Track**. The obj
 
 ## Contact
 
-For any questions or suggestions, please feel free to contact me.
+For any questions or suggestions, please feel free to mail me (kavyachippada@gmail.com)
