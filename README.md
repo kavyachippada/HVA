@@ -22,7 +22,7 @@ This project is part of the **Mini Hackathon 1.0 - Data Science Track**. The obj
 ## How to Run
 
 1. **Data Preprocessing**: Access the preprocessing notebook on Kaggle [[link](https://www.kaggle.com/code/kavyachippada/preprocessing/edit/run/194314284)].
-2. **SQL Queries**: Use the provided SQL queries to explore the dataset in BigQuery.
+2. **SQL Queries**: Use the provided SQL queries to explore the dataset in BigQuery [Link to bigquery](https://console.cloud.google.com/bigquery?sq=891619701453:0e4eaea46c524742b719b6e2a4848ac1).
 3. **Power BI Visualizations**: Open the Power BI file to view the visualizations and interact with the data.
 
 ## Submission
