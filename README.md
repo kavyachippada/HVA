@@ -27,7 +27,7 @@ This project is part of the **Mini Hackathon 1.0 - Data Science Track**. The obj
 
 ## Submission
 
-- **Loom Video**: [Link to video](#)
+- **Loom Video**: [Link to video](https://www.loom.com/share/e1b17f8b41de42f98aa31c6908286531?sid=fb6b6e77-12d5-411c-9831-a8adc13fb305)
 
 ## Contact
 
